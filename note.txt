@@ -1,0 +1,16 @@
+Headline
+
+Frontend Developer | React, Redux, JavaScript, HTML, CSS | UI Specialist.
+
+
+
+Summary
+
+I’m a passionate Frontend Developer with a strong foundation in JavaScript, React.js, HTML5, CSS3, and modern UI/UX principles. I specialize in building clean, responsive, and high-performance web applications that deliver great user experiences.
+
+With experience in component-based architecture, RESTful APIs, and state management (Redux, Context API), I enjoy transforming design mock-ups into pixel-perfect interfaces and solving real-world problems through code.
+
+I actively collaborate with designers and backend teams and believe in writing clean, reusable code. I’m always exploring new technologies and tools to improve performance and maintainability.
+
+🔧 Tech Skills:
+React.js | JavaScript (ES6+) | Redux | HTML5 | CSS3 | Git | REST API | XD | Responsive Design 
